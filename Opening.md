@@ -1,5 +1,5 @@
 ### Tell me about youself.
-Hello, my name is Jashandeep Kaur Sidhu, and I'm an enthusiastic software engineer.  
+Hello, my name is Jashandeep Kaur Sidhu, and I am a final year student with a strong passion for software engineering.  
 As I approach the completion of my degree in Bachelors in Computer Science and Engineering, I am excited about the opportunity to transition from an enthusiastic learner to a professional software engineer. 
 Throughout my academic journey, I've been immersed in Data Structures and Algorithms, Database Management Syste, Operating System, Object Oriented Programming, Java Programming and Software Engineering.
 
