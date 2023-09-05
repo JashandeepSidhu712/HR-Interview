@@ -18,3 +18,9 @@ The company has a **strong presence** in several industries, including **textile
 ## INDUSTRY 4.0
 Industry 4.0, often referred to as the Fourth Industrial Revolution, is a term that describes the ongoing transformation of traditional industries through the integration of digital technologies, data-driven processes, and automation. It represents a significant shift in the way businesses operate and manufacture products.
 
+## Why you want to join trident?
+I want to join Trident because it's a company whose products have been a part of my daily life since childhood, and I take pride in its contribution to India. 
+
+Over the past three years, I've seen senior students successfully placed at Trident, and their insights into the company's culture and community have inspired me. 
+
+It became my dream company, prompting me to research how my skills align with Trident's needs. I've since been working on enhancing my skill set to contribute effectively to Trident's success.
